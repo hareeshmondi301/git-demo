@@ -2,9 +2,5 @@
 
 this is the first file in the project.
 
-## Ipsum below
-
-hiii the harish mkondi 
-jhjhanmb/.
-jbkdbkfajsf
-kejgija
+##new website 
+index.html
